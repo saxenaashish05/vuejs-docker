@@ -31,3 +31,9 @@ docker compose up -d
  ⠸ Network clarivate-fe_default  Created                                                                                                        14.3s 
  ✔ Container clarivate-fe-web-1  Started                                                                                                        14.0s 
 ```
+# Expected result on terminal
+```
+amogh@amogh-Vostro-3480:~/clarivate-fe$ docker ps
+CONTAINER ID   IMAGE              COMMAND                  CREATED              STATUS              PORTS                                               NAMES
+5bdf681ec0d9   clarivate-fe-web   "docker-entrypoint.s…"   About a minute ago   Up About a minute   0.0.0.0:8080->8080/tcp, :::8080->8080/tcp           clarivate-fe-web-1
+```
