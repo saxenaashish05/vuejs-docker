@@ -3,7 +3,7 @@
 Added by Ashish Kumar Saxena
 # Folder Structure
 
-
+```
 ├── compose.yaml
 ├── README.md
 └── vuejs
@@ -21,3 +21,4 @@ Added by Ashish Kumar Saxena
     │   │   └── User.vue
     │   └── main.js
     └── yarn.lock
+```
