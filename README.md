@@ -22,3 +22,12 @@ Added by Ashish Kumar Saxena
     │   └── main.js
     └── yarn.lock
 ```
+# Deploy with docker compose
+```
+docker compose up -d --build
+
+docker compose up -d
+[+] Running 1/2
+ ⠸ Network clarivate-fe_default  Created                                                                                                        14.3s 
+ ✔ Container clarivate-fe-web-1  Started                                                                                                        14.0s 
+```
