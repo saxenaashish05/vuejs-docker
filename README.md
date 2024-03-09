@@ -41,6 +41,6 @@ CONTAINER ID   IMAGE              COMMAND                  CREATED              
 
 After the application starts, navigate to `http://0.0.0.0:8080` in your web browser.
 
-![page](Screenshot from 2024-03-09 22-34-47.png)
+![page](Screenshot-from-2024-03-09-2-34-47.png)
 
 
