@@ -23,7 +23,10 @@ Added by Ashish Kumar Saxena
     └── yarn.lock
 ```
 # Deploy with docker compose
+
 ```
+run at the root level below command
+
 docker compose up -d --build
 
 docker compose up -d
