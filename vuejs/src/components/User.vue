@@ -91,8 +91,10 @@ body {
 // MyComponent.vue
 
 <script>
+
 import axios from 'axios';
 export default {
+  name: 'User',
   data() {
     return {
       apiData: null,
