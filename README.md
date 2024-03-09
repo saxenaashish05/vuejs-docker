@@ -3,7 +3,7 @@
 Added by Ashish Kumar Saxena
 # Folder Structure
 
-.
+
 ├── compose.yaml
 ├── README.md
 └── vuejs
