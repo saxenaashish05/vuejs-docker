@@ -46,7 +46,9 @@ After the application starts, navigate to `http://0.0.0.0:8080` in your web brow
 
 ![page](Screenshot-from-2024-03-09-22-34-47.png)
 
-# after perform the click action on both button
+```
+ After perform the click action on button
+```
 
 ![page](output.png)
 
